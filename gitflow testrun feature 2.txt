@@ -1,0 +1,2 @@
+2... developing and commiting feature 2 for 'develop' branch.
+     after tests have passed, merge back into 'develop' branch.
