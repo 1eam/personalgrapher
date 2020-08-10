@@ -1,0 +1,3 @@
+developing feature 2...
+several commits later... feature 2 is done.
+after the tests have passed; merge back into the 'develop' branch. and delete this branch.
